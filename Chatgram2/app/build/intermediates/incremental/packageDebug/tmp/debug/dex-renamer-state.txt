@@ -1,0 +1,4 @@
+#Sat Jul 27 06:56:59 IST 2019
+base.0=C\:\\Users\\AdItYa\\AndroidStudioProjects\\Chatgram2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

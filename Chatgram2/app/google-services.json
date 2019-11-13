@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "355858894735",
+    "firebase_url": "https://chatgram2-c4a1b.firebaseio.com",
+    "project_id": "chatgram2-c4a1b",
+    "storage_bucket": "chatgram2-c4a1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355858894735:android:0e82b2197fe7de6f",
+        "android_client_info": {
+          "package_name": "com.example.chatgram2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355858894735-tv4csv4dcs12fh8kgmgvc9bv6bnj40o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3dcJON8lzLqJyL1wjluix-zOfJFXN3Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355858894735-tv4csv4dcs12fh8kgmgvc9bv6bnj40o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
